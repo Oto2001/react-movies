@@ -1,0 +1,25 @@
+.pages-wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem 0 3rem 0;
+}
+
+.pages {
+	background-color: white;
+	border: none;
+	margin: 2rem;
+}
+
+.switch-left,
+.switch-right {
+	font-size: 3rem;
+}
+
+.switch-left:hover {
+	color: brown;
+}
+
+.switch-right:hover {
+	color: brown;
+}
